@@ -54,12 +54,12 @@
             text-anchor="end">Vue</text>
       <rect x="140" y="128" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="128" width="12.719999999999999" height="28" 
+      <rect x="140" y="128" width="13.2" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="147" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">5.3%</text>
+            fill="#808080">5.5%</text>
     </g>
     <g>
       <text x="130" y="183" 
