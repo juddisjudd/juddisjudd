@@ -9,12 +9,12 @@
             text-anchor="end">TypeScript</text>
       <rect x="140" y="20" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="20" width="168.96" height="28" 
+      <rect x="140" y="20" width="169.2" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="39" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">70.4%</text>
+            fill="#808080">70.5%</text>
     </g>
     <g>
       <text x="130" y="75" 
@@ -24,12 +24,12 @@
             text-anchor="end">Python</text>
       <rect x="140" y="56" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="56" width="23.04" height="28" 
+      <rect x="140" y="56" width="22.8" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="75" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">9.6%</text>
+            fill="#808080">9.5%</text>
     </g>
     <g>
       <text x="130" y="111" 
