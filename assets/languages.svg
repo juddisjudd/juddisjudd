@@ -9,12 +9,12 @@
             text-anchor="end">TypeScript</text>
       <rect x="140" y="20" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="20" width="169.44" height="28" 
+      <rect x="140" y="20" width="168.72" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="39" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">70.6%</text>
+            fill="#808080">70.3%</text>
     </g>
     <g>
       <text x="130" y="75" 
@@ -39,12 +39,12 @@
             text-anchor="end">CSS</text>
       <rect x="140" y="92" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="92" width="18.24" height="28" 
+      <rect x="140" y="92" width="18.96" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="111" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">7.6%</text>
+            fill="#808080">7.9%</text>
     </g>
     <g>
       <text x="130" y="147" 
