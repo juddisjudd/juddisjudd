@@ -9,87 +9,87 @@
             text-anchor="end">TypeScript</text>
       <rect x="140" y="20" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="20" width="168.72" height="28" 
+      <rect x="140" y="20" width="155.76" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="39" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">70.3%</text>
+            fill="#808080">64.9%</text>
     </g>
     <g>
       <text x="130" y="75" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="13" 
             fill="#e6e6e6" 
-            text-anchor="end">Python</text>
+            text-anchor="end">Rust</text>
       <rect x="140" y="56" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="56" width="22.56" height="28" 
+      <rect x="140" y="56" width="22.8" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="75" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">9.4%</text>
+            fill="#808080">9.5%</text>
     </g>
     <g>
       <text x="130" y="111" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="13" 
             fill="#e6e6e6" 
-            text-anchor="end">CSS</text>
+            text-anchor="end">Python</text>
       <rect x="140" y="92" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="92" width="19.2" height="28" 
+      <rect x="140" y="92" width="20.88" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="111" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">8.0%</text>
+            fill="#808080">8.7%</text>
     </g>
     <g>
       <text x="130" y="147" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="13" 
             fill="#e6e6e6" 
-            text-anchor="end">Vue</text>
+            text-anchor="end">CSS</text>
       <rect x="140" y="128" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="128" width="12.96" height="28" 
+      <rect x="140" y="128" width="17.76" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="147" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">5.4%</text>
+            fill="#808080">7.4%</text>
     </g>
     <g>
       <text x="130" y="183" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="13" 
             fill="#e6e6e6" 
-            text-anchor="end">Shell</text>
+            text-anchor="end">Vue</text>
       <rect x="140" y="164" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="164" width="5.76" height="28" 
+      <rect x="140" y="164" width="12" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="183" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">2.4%</text>
+            fill="#808080">5.0%</text>
     </g>
     <g>
       <text x="130" y="219" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="13" 
             fill="#e6e6e6" 
-            text-anchor="end">Rust</text>
+            text-anchor="end">Shell</text>
       <rect x="140" y="200" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="200" width="4.56" height="28" 
+      <rect x="140" y="200" width="5.28" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="219" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">1.9%</text>
+            fill="#808080">2.2%</text>
     </g>
     <g>
       <text x="130" y="255" 
@@ -99,12 +99,12 @@
             text-anchor="end">JavaScript</text>
       <rect x="140" y="236" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="236" width="4.08" height="28" 
+      <rect x="140" y="236" width="3.5999999999999996" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="255" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">1.7%</text>
+            fill="#808080">1.5%</text>
     </g>
     <g>
       <text x="130" y="291" 
@@ -114,11 +114,11 @@
             text-anchor="end">C#</text>
       <rect x="140" y="272" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="272" width="2.4" height="28" 
+      <rect x="140" y="272" width="2.16" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="291" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">1.0%</text>
+            fill="#808080">0.9%</text>
     </g>
 </svg>
