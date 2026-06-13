@@ -9,12 +9,12 @@
             text-anchor="end">TypeScript</text>
       <rect x="140" y="20" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="20" width="127.2" height="28" 
+      <rect x="140" y="20" width="126.48" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="39" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">53.0%</text>
+            fill="#808080">52.7%</text>
     </g>
     <g>
       <text x="130" y="75" 
@@ -24,19 +24,19 @@
             text-anchor="end">Rust</text>
       <rect x="140" y="56" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="56" width="49.440000000000005" height="28" 
+      <rect x="140" y="56" width="49.199999999999996" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="75" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">20.6%</text>
+            fill="#808080">20.5%</text>
     </g>
     <g>
       <text x="130" y="111" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="13" 
             fill="#e6e6e6" 
-            text-anchor="end">Python</text>
+            text-anchor="end">Svelte</text>
       <rect x="140" y="92" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
       <rect x="140" y="92" width="14.879999999999999" height="28" 
@@ -51,22 +51,22 @@
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="13" 
             fill="#e6e6e6" 
-            text-anchor="end">CSS</text>
+            text-anchor="end">Python</text>
       <rect x="140" y="128" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="128" width="13.68" height="28" 
+      <rect x="140" y="128" width="14.879999999999999" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="147" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">5.7%</text>
+            fill="#808080">6.2%</text>
     </g>
     <g>
       <text x="130" y="183" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="13" 
             fill="#e6e6e6" 
-            text-anchor="end">Svelte</text>
+            text-anchor="end">CSS</text>
       <rect x="140" y="164" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
       <rect x="140" y="164" width="13.439999999999998" height="28" 
@@ -114,11 +114,11 @@
             text-anchor="end">Shell</text>
       <rect x="140" y="272" width="240" height="28" 
             fill="#1a1a1a" rx="4"/>
-      <rect x="140" y="272" width="3.84" height="28" 
+      <rect x="140" y="272" width="3.5999999999999996" height="28" 
             fill="#ffffff" rx="4"/>
       <text x="388" y="291" 
             font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" 
             font-size="11" 
-            fill="#808080">1.6%</text>
+            fill="#808080">1.5%</text>
     </g>
 </svg>
