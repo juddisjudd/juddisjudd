@@ -1,5 +1,3 @@
-# Powered by ADHD™
-
 ### Current Focus
 
 Building & Shipping [svocs.dev](https://svocs.dev/).
